@@ -1,7 +1,0 @@
-# Crear carpetas
-mkdir fase-1 fase-2
-
-# Mover archivos existentes a las carpetas (si los tienes)
-mv 1.3_APT122_AutoevaluaciónFase1.docx fase-1/
-mv Prueba1GameGenesis Matias Reyes.docx fase-1/
-mv level_generator.py fase-1/
